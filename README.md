@@ -15,7 +15,7 @@ I’m passionate about creating interactive, user-centered digital solutions and
 
 ### 📚 Redify — eBook Platform
 A Figma-based platform where users can buy books, write stories, and share them in a reading community.  
-![Redify preview](./assets/screenshots/redify.mp4)
+![Redify preview](./assets/screenshots/readify.mp4)
 
 ---
 
@@ -27,7 +27,8 @@ Android app that helps users track product expiration dates and suggest recipes.
 
 ### 🏨 Hotel Reservation Portal
 Web application built with Vue.js, Laravel, and MongoDB for booking hotel rooms and services.  
-![Hotel portal preview](./assets/screenshots/hotel-portal.png)
+📺 [Watch on Google Drive](https://drive.google.com/drive/folders/1bPnJ7-ux1V6oGmUiewIq43484mxWITB4?usp=drive_link)
+
 
 
 ---

@@ -15,13 +15,13 @@ I’m passionate about creating interactive, user-centered digital solutions and
 
 ### 📚 Redify — eBook Platform
 A Figma-based platform where users can buy books, write stories, and share them in a reading community.  
-![Redify preview](./assets/screenshots/redify-home.png)
+![Redify preview](./assets/screenshots/redify.mp4)
 
 ---
 
 ### 🧊 Smart Fridge App
 Android app that helps users track product expiration dates and suggest recipes.  
-![Smart Fridge preview](./assets/screenshots/smart-fridge-home.png)
+![Smart Fridge preview](./assets/screenshots/myfridgee.mp4)
 
 ---
 
